@@ -1,0 +1,19 @@
+.Weather{
+    text-align: center;
+    
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+@media screen and (min-width: 650px) {
+    .card{
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+
+}

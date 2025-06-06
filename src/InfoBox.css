@@ -1,0 +1,23 @@
+.InfoBox{
+    text-align: center;
+
+}
+.cardCont{
+    /* display: flex;
+    justify-content: center; */
+    /* background-color: aliceblue; */
+    display: inline;
+    margin:25px;
+    width: 20rem;
+    
+  
+}
+/* @media screen and (max-width: 650px) {
+    .InfoBox{
+       width: 90vw;
+       display: grid;
+       place-items: center;
+    }
+    
+
+} */
